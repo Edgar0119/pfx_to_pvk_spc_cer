@@ -1,2 +1,2 @@
-# pfx_to_pvk_spc_cer
-Convert  some authenticode.pfx to myprivatekey.pvk and mycredentials.spc and cert.cer for signcode tool
+1. Please make sure you have named the PFX file authenticode.pfx
+2. Just run Convert.bat
